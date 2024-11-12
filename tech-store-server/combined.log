@@ -1,0 +1,21 @@
+2024-11-06T09:13:36.507Z [[31merror[39m]: user already exists
+2024-11-06 14:44:43 [myApp] [31merror[39m: user already exists
+2024-11-08 16:14:41 [myApp] [32minfo[39m: user created successfully
+2024-11-08 16:26:18 [myApp] [32minfo[39m: logged in successfully
+2024-11-08 16:27:29 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 11:34:42 [myApp] [32minfo[39m: user created successfully
+2024-11-11 11:34:50 [myApp] [31merror[39m: user already exists
+2024-11-11 11:35:12 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 11:57:01 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 11:58:04 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 11:58:20 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 11:58:38 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 12:12:25 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 12:13:00 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 12:16:06 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 12:47:03 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 12:59:03 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 14:55:54 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 15:02:18 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 16:22:53 [myApp] [32minfo[39m: logged in successfully
+2024-11-11 16:24:54 [myApp] [32minfo[39m: logged in successfully
